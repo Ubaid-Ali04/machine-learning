@@ -1,0 +1,7 @@
+#1 install create new conda environment
+#2 Install the following pakages
+#pandas ,numpy, matplotlib, seaborn, scipy, scikit-learn, jupyter, ipenpyx
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
